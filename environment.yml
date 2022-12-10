@@ -2,7 +2,7 @@ name: my_env
 channels:
   - defaults
 dependencies:
-  - python=3.11.1
+  - python=3.9.0
   - pip=22.3.1
   - pip:
     - matplotlib==3.5.3
